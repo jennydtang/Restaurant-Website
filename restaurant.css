@@ -1,0 +1,91 @@
+/* Nav Bar */
+nav {
+    background-color:black;
+    padding: 25px;
+    margin: -10px -10px;
+    text-align: center;
+    width: 100%;
+}
+nav li {
+    display: inline;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    margin-right: 30px;
+}
+nav a {
+    text-decoration: none;
+    color: #379683;
+}
+nav a:hover {
+    text-decoration: underline;
+    color: darkgrey;
+}
+/* Background */
+html{ 
+    background-color: #8EE4AF;
+}
+/* body */
+h1, h2 {
+    text-align: center;
+}
+.location {
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.hungry {
+    text-align: center;
+}
+/* Form Styles */
+form {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 5%;
+}
+form input {
+    display: block;
+    margin-bottom: 10px;
+}
+/* Table Styles */
+table{
+    border: 2px solid black;
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+    background-color: white;
+}
+table, th, td {
+    border: 3px solid black;
+}
+th, td {
+    padding: 15px;
+}
+p {
+    text-align: center;
+}
+
+#JennyPic {
+    height: 50%;
+    width: 103%;
+    margin: -10px -10px;
+}
+/* Footer */
+.container {
+    text-align: center; 
+    margin-top: 100px;
+}
+.container li {
+    display: inline;
+    
+}
+.container a {
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+}
+.email {
+    text-align: center;
+}
